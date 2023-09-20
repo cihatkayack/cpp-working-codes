@@ -1,0 +1,6 @@
+Kategori	Tarih		Tedarikci	Tur			BirimFiyat	Miktar
+Paketsiz	01.01.2020	MersinHali	Elma		6			500
+Paketsiz	03.01.2020	AntalyaHali	Portakal	4			1000
+Paketli		04.01.2020	Selpak		Mendil		1			200
+Paketsiz	05.01.2020	AntalyaHali	Limon		8			100
+Paketli		07.01.2020	HaciSakir	Sabun		3			600
